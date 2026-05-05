@@ -83,10 +83,14 @@ O bot roda automaticamente toda semana, acessando as páginas de cada categoria 
 - Computadores — notebook, desktop, monitor
 - Celular — smartphones, tablets
 
+- ## 📊 Preview
+![Dashboard](image/relatorio.png)
+
 ## 📈 Dashboard Power BI
 
 - Preço médio por categoria
 - Produto mais caro e mais barato com nome dinâmico
+
 - Variação de preço com indicadores ▲ vermelho e ▼ verde
 - Histórico de preços ao longo do tempo
 - Distribuição de produtos por categoria
