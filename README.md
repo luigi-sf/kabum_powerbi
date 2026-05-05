@@ -84,7 +84,7 @@ O bot roda automaticamente toda semana, acessando as páginas de cada categoria 
 - Celular — smartphones, tablets
 
 - ## 📊 Preview
-![Dashboard](image/relatorio.png)
+![Dashboard] (image/relatorio.png)
 
 ## 📈 Dashboard Power BI
 
